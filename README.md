@@ -1,0 +1,2 @@
+# PrimeFactorizeGame
+A simple game
