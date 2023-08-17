@@ -421,3 +421,6 @@ gmon.out
 # exmaple Wavefront .obj files
 !**/example/obj/
 !**/example/obj/*.obj
+
+# data
+App/dat/
